@@ -1,0 +1,1 @@
+# Uygulamalarla-SQL-E-itimi_Techcareer
