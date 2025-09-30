@@ -1,1 +1,1 @@
-# Uygulamalarla-SQL-E-itimi_Techcareer
+# Uygulamalarla-SQL-Eğitimi_Techcareer
